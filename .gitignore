@@ -26,9 +26,9 @@ env/
 
 # --- Project-Specific Generated Data ---
 # CRITICAL: Ignore the local vector database, source documents, and generated images
-chroma_db/
-data/
-images/
+#chroma_db/
+#data/
+#images/
 
 # --- IDE & Editor ---
 # Visual Studio Code

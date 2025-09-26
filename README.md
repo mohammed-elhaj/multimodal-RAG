@@ -50,7 +50,7 @@ The project is designed around a clear, two-stage process to ensure the highest 
 1.  **Clone the Repository**
     ```bash
     git clone <your-repo-url>
-    cd ashraq-rag-agent
+    cd multimodal-RAG
     ```
 
 2.  **Create and Activate a Virtual Environment**

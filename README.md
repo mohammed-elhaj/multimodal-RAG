@@ -141,14 +141,7 @@ Your browser will automatically open, and you can start asking questions.
 └── README.md                # This file.
 ```
 
-## ⚙️ Troubleshooting
-
-If you encounter issues with the database or want to re-build it from scratch with a new version of the PDF, use the `--reset` flag. This will delete the existing vector store before running the ingestion process.
-
-```bash
-# This will delete the old database and build a new one
-python ingest.py --reset
-```-   **Bring Your Own Document**: The user provides the source PDF, ensuring private documents are not stored in the public repository.
+**Bring Your Own Document**: The user provides the source PDF, ensuring private documents are not stored in the public repository.
 
 ## 🏗️ How It Works: The "Smart Start" Architecture
 
